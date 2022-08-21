@@ -1,19 +1,19 @@
 {
   "menuItems": [
     {
-      "name": "Quick Start",
+      "name": "Белорусская мова",
       "menu": [
         ""
       ]
     },
     {
-      "name": "Getting Started",
+      "name": "Белорусская литература",
       "menu": [
-        "Manual Installation"
+        ""
       ]
     },
     {
-      "name": "Configuration"
+      "name": "Русский язык"
     }
   ]
 }
